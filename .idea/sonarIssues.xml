@@ -38,6 +38,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/yonyougov/IMenuService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/com/yonyougov/PlataformAbstractService.java">
           <value>
             <set />
@@ -59,6 +64,46 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/main/java/com/yonyougov/RedirectController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/yonyougov/controller/MenuController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/yonyougov/dto/MenuDto.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/yonyougov/service/IMenuService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/yonyougov/service/MenuAbstractService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/yonyougov/service/MenuService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/yonyougov/service/impl/App66MenuService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/yonyougov/service/impl/App80MenuService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/yonyougov/service/impl/App85MenuService.java">
           <value>
             <set />
           </value>
@@ -98,32 +143,42 @@
             <set />
           </value>
         </entry>
-        <entry key="$PROJECT_DIR$/../../用友政务代码/ptp-core/src/main/java/com/yonyougov/ptp/core/platform/MenuTreeAbstractService.java">
+        <entry key="$PROJECT_DIR$/src/test/DemoTest.java">
           <value>
             <set />
           </value>
         </entry>
-        <entry key="$PROJECT_DIR$/../../用友政务代码/上海20190325更新/ptp-page/pom.xml">
+        <entry key="D:/workspace/用友政务代码/ptp-core/src/test/java/com/yonyougov/Mytest.java">
           <value>
             <set />
           </value>
         </entry>
-        <entry key="$PROJECT_DIR$/../../用友政务代码/上海20190325更新/ptp-page/src/main/java/com/yonyougov/ptp/page/AntPageApplication.java">
+        <entry key="D:/用友政务代码/ptp-core/src/main/java/com/yonyougov/ptp/core/platform/MenuTreeAbstractService.java">
           <value>
             <set />
           </value>
         </entry>
-        <entry key="$PROJECT_DIR$/../../用友政务代码/上海20190325更新/ptp-page/src/main/java/com/yonyougov/ptp/page/service/impl/shczj/ShczjNewMenuTreeService.java">
+        <entry key="D:/用友政务代码/上海20190325更新/ptp-page/pom.xml">
           <value>
             <set />
           </value>
         </entry>
-        <entry key="$PROJECT_DIR$/../../用友政务代码/上海20190325更新/ptp-page/src/main/resources/application-locallinux.yml">
+        <entry key="D:/用友政务代码/上海20190325更新/ptp-page/src/main/java/com/yonyougov/ptp/page/AntPageApplication.java">
           <value>
             <set />
           </value>
         </entry>
-        <entry key="$PROJECT_DIR$/../../用友政务代码/门户最新代码/平台适配版本/ptp-page/src/main/java/com/yonyougov/ptp/page/AntPageApplication.java">
+        <entry key="D:/用友政务代码/上海20190325更新/ptp-page/src/main/java/com/yonyougov/ptp/page/service/impl/shczj/ShczjNewMenuTreeService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/用友政务代码/上海20190325更新/ptp-page/src/main/resources/application-locallinux.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/用友政务代码/门户最新代码/平台适配版本/ptp-page/src/main/java/com/yonyougov/ptp/page/AntPageApplication.java">
           <value>
             <set />
           </value>
