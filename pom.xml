@@ -34,6 +34,56 @@
       <groupId>com.yonyougov</groupId>
       <artifactId>ptp-core</artifactId>
       <version>8.51.0-M4.4-SNAPSHOT</version>
+      <exclusions>
+        <exclusion>
+          <groupId>org.springframework.cloud</groupId>
+          <artifactId>spring-cloud-starter</artifactId>
+        </exclusion>
+        <exclusion>
+          <groupId>org.springframework.cloud</groupId>
+          <artifactId>spring-cloud-starter-openfeign</artifactId>
+        </exclusion>
+        <exclusion>
+          <groupId>org.springframework.cloud</groupId>
+          <artifactId>spring-cloud-starter-netflix-ribbon</artifactId>
+        </exclusion>
+        <exclusion>
+          <groupId>org.springframework.boot</groupId>
+          <artifactId>spring-boot-starter-data-redis</artifactId>
+        </exclusion>
+        <exclusion>
+          <groupId>com.fasterxml.jackson.core</groupId>
+          <artifactId>jackson-databind</artifactId>
+        </exclusion>
+        <exclusion>
+          <groupId>com.dameng</groupId>
+          <artifactId>DmJdbcDriver18</artifactId>
+        </exclusion>
+        <exclusion>
+          <groupId>com.dameng</groupId>
+          <artifactId>DmDialect-for-hibernate</artifactId>
+        </exclusion>
+        <exclusion>
+          <groupId>com.kingbase</groupId>
+          <artifactId>hibernate-dialect</artifactId>
+        </exclusion>
+        <exclusion>
+          <groupId>com.kingbase</groupId>
+          <artifactId>kingbase-jdbc</artifactId>
+        </exclusion>
+        <exclusion>
+          <groupId>org.postgresql</groupId>
+          <artifactId>postgresql</artifactId>
+        </exclusion>
+        <exclusion>
+          <groupId>com.oscar</groupId>
+          <artifactId>oscarJDBC16</artifactId>
+        </exclusion>
+        <exclusion>
+          <groupId>com.oscar</groupId>
+          <artifactId>oscar-dialect</artifactId>
+        </exclusion>
+      </exclusions>
     </dependency>
   </dependencies>
 
